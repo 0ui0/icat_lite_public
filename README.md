@@ -10,6 +10,9 @@
 
 https://www.bilibili.com/video/BV1xA4m1P7qH
 
+# QQ群
+541648720
+
 # 授权
 
 你需要花10~99元购买软件的使用授权以消除正版提示
