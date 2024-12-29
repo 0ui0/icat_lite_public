@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow:/post_list/
+Disallow:/api/
+Disallow:/iAmUser
+Disallow:/lite.html
+Disallow:/lite
+Disallow:/icat.html
+Disallow:/icat
