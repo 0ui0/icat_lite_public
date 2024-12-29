@@ -25,8 +25,8 @@ module.exports = {
       secure: email_smtpPort === 465 ? true : false, //useTLS
       secureConnection: true,
       auth: {
-        user: email_userName, //"master@tmail.o-o.space"
-        pass: email_password //"im6BCAuKNjhTWYGC"
+        user: email_userName,
+        pass: email_password 
       },
       tls: {}
     });
