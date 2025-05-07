@@ -1,0 +1,7 @@
+{
+  "ignore":[
+    "./apis/robot/records.json",
+    "./vite",
+    "./www"
+  ]
+}
