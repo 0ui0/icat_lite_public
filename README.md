@@ -1,8 +1,8 @@
 # 喵空间社区程序Lite版
 
-官方网站 https://miao.o-o.zone
+官方网站 https://miao.iw-i.com
 
-交流社区 https://www.o-o.zone
+交流社区 https://iw-i.com
 
 安装教程 https://www.bilibili.com/video/BV1A8xyepEoE/?share_source=copy_web&vd_source=639ad4dd99f72ed73249523460fd275d
 
@@ -15,7 +15,7 @@
 
 # 授权说明
 
-你需要通过完成[喵宅苑网站](https://www.o-o.zone)的新手任务和每日任务，获取到250喵点积分后，在喵宅苑网站使用喵点购买物品【喵空间社区程序Lite版】自助完成软件免费授权
+你需要通过完成[喵宅苑网站](https://iw-i.com)的新手任务和每日任务，获取到250喵点积分后，在喵宅苑网站使用喵点购买物品【喵空间社区程序Lite版】自助完成软件免费授权
 
 【注】因网站运营策略调整，注册可能收费。
 
